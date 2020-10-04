@@ -31,8 +31,8 @@ After you loose, press the select button to restart the game.
 
 #### 1. In-Game Screen
 
-![In-Game Screen](https://raw.githubusercontent.com/cmulay/Arduino-Dinosaur-Game/master/img/img2jpg)
+![In-Game Screen](https://raw.githubusercontent.com/cmulay/Arduino-UNO-Dinosaur-Game/master/img/img2.jpg)
 
 #### 2. Game Over Screen
 
-![Game Over Screen](https://raw.githubusercontent.com/cmulay/Arduino-Dinosaur-Game/master/img/img1.jpg)
+![Game Over Screen](https://raw.githubusercontent.com/cmulay/Arduino-UNO-Dinosaur-Game/master/img/img1.jpg)
